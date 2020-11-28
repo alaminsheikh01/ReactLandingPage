@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ReactLandingPage/static/css/main.c75a6eff.chunk.css",
+    "main.js": "/ReactLandingPage/static/js/main.be48a1f8.chunk.js",
+    "main.js.map": "/ReactLandingPage/static/js/main.be48a1f8.chunk.js.map",
+    "runtime-main.js": "/ReactLandingPage/static/js/runtime-main.dee8d2d1.js",
+    "runtime-main.js.map": "/ReactLandingPage/static/js/runtime-main.dee8d2d1.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/ReactLandingPage/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.a258efee.chunk.js": "/ReactLandingPage/static/js/2.a258efee.chunk.js",
+    "static/js/2.a258efee.chunk.js.map": "/ReactLandingPage/static/js/2.a258efee.chunk.js.map",
+    "index.html": "/ReactLandingPage/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/ReactLandingPage/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.c75a6eff.chunk.css.map": "/ReactLandingPage/static/css/main.c75a6eff.chunk.css.map",
+    "static/js/2.a258efee.chunk.js.LICENSE.txt": "/ReactLandingPage/static/js/2.a258efee.chunk.js.LICENSE.txt",
+    "static/media/Navbar.css": "/ReactLandingPage/static/media/background.6dc827f0.png",
+    "static/media/brand1.fb4de1ed.png": "/ReactLandingPage/static/media/brand1.fb4de1ed.png",
+    "static/media/brand2.521df0c7.png": "/ReactLandingPage/static/media/brand2.521df0c7.png",
+    "static/media/del.03d8db14.png": "/ReactLandingPage/static/media/del.03d8db14.png",
+    "static/media/sidePic.317ed7f4.png": "/ReactLandingPage/static/media/sidePic.317ed7f4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dee8d2d1.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.a258efee.chunk.js",
+    "static/css/main.c75a6eff.chunk.css",
+    "static/js/main.be48a1f8.chunk.js"
+  ]
+}
