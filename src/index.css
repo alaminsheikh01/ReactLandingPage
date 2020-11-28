@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* certificate start */
+
+.content_center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cus_img_brand img{
+  width: 100px;
+}
+
+/* certificate end */
+
+/* portfolio start */
+
+
+
+/* portfolio end */
+
+
+/* brand css start */
+
+
+
+/* brand css end */

@@ -1,17 +1,26 @@
 {
   "name": "my-app2",
   "version": "0.1.0",
+  "homepage": "http://alaminsheikh01.github.io/ReactLandingPage",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.2.2",
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
+    "gh-pages": "^3.1.0",
+    "jquery": "^3.5.1",
     "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.0",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,5 +43,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "css-loader": "^5.0.1",
+    "sass-loader": "^10.1.0",
+    "style-loader": "^2.0.0"
   }
 }
